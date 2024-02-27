@@ -1,0 +1,18 @@
+h2 {color: green;text-decoration: underline;}
+
+p {color: orange;}
+
+h1 {text-align: center
+    ; text-decoration: underline;}
+    h1:hover {color: pink;}
+
+.txt-col-purple {color: purple;}
+.txt-col-grey {color: grey;}
+.txt-col-pink {color: pink;}
+.txt-col-blue {color: blue;}
+.txt-italic {font-style: italic;}
+
+ul {list-style: none;}
+
+
+

@@ -1,0 +1,47 @@
+body {
+    /*Police de caractère */
+    font-family: Arial, Helvetica, sans-serif;
+
+    /*Taille de police */
+    font-size: 20px;
+
+    /*Epaisseur de la police */
+    font-weight: normal;
+    /*Normal | bold*/
+
+    /*Style de la police */
+    font-style: normal;
+
+    /* Alignement du texte */
+    text-align: center;
+    /* left |center | right */
+
+}
+    h1 {
+        font-size: 30px;
+        font-weight: normal; 
+
+    }
+    p {
+        /* Majuscule| minuscule */
+        text-transform: uppercase;
+        /* lowercase | uppercase | captalize*/
+    }
+    
+    ul{/* Enlever les puces devant les paragraphes des listes*/
+        list-style:none;
+    }
+    a {
+        /* Style sur le texte (soulgné , barré , */
+        text-decoration: none;
+        /* underligne , none , line-through */
+        color: red;
+    }
+    /* pseudo class (quand je survole il change de couleur*/
+    a:hover {
+        color: blue;
+        font-size: 22px;
+    }/* La pseudo class visited signifie que le lien a ete cliqué une fois */
+    a:visited{
+        color: green;
+    }

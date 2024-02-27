@@ -1,0 +1,29 @@
+/* Je suis un commentaire en CSS */
+/* Cascading style Sheet
+/* Le Cascading style Sheet veux que s'ecoule en cascade sur les enfants */
+
+/* On peux selectionner les noms des balises HTML */
+/* Consequences , tout les éléments de ce type seront modifiés */
+
+/* nomme directement la balise */ 
+p{
+    color: brown;
+}
+/* On peux selectionner des balises specifiques grace au class en utilisant le . */ 
+/* Consequences cet element sera modifie */
+
+/* On peux selectionner plusieurs elements en les separant par des virgules 
+/* Class */
+h2 , .txt-cl-orange{
+    color: orange;
+}
+/* On prefere laisser les id au javascript*/
+#title {
+    color: aquamarine;
+}
+
+/* On nomme les div comme des class */
+.paragraphe {
+
+
+}
