@@ -1,0 +1,16 @@
+* {margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+.container{
+    width: 300px;
+    height: 300px;
+    margin: 50px auto;
+ background-image: url(pexels-anh-nguyen-16946947.jpg);
+ background-size: ;
+}
+
+.container-2 {}
+
+.container-3 {}

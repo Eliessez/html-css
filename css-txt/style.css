@@ -25,7 +25,7 @@ body {
     p {
         /* Majuscule| minuscule */
         text-transform: uppercase;
-        /* lowercase | uppercase | captalize*/
+        /* lowercase | uppercase | captalize(maj debut de phrase)   */
     }
     
     ul{/* Enlever les puces devant les paragraphes des listes*/
@@ -41,7 +41,7 @@ body {
     a:hover {
         color: blue;
         font-size: 22px;
-    }/* La pseudo class visited signifie que le lien a ete cliqué une fois */
+    }/* La pseudo class visited signifie que le lien a ete cliqué une fois  */
     a:visited{
         color: green;
     }
